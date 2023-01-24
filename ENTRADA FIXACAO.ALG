@@ -1,4 +1,4 @@
-Algoritmo "entrada fixação"
+Algoritmo "entrada fixaÃ§Ã£o"
 
 
 Var
